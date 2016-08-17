@@ -1,17 +1,58 @@
-PHP fejlesztő
-13. kerület Budapest
-PHP
+<h1>PHP Fejlesztő</h1>
+<p>
+	A GhostMonitort fejleszteni nem csupán egy munka. Ha egyszerű, gyakornoki pozicót keresel, ahol 4 után hazamehetsz és elköltheted a közepesen jó fizetésed, fittyet hányva a felelősségeidre és a komolyabb életcélokra  - rossz helyen jársz. Nálunk fejleszteni folyamatos kihívásokkal, tanulással, a határaid feszegetésével jár.<br /><br />
 
-A feladatok
+	Az ideális jelölt a pozícóba, egy fiatalos, rátermett fejlesztő, aki nem hogy kerülné a kalandokat - egyenesen keresi azokat. Betartja a határidőket, addig marad velünk az irodában, amíg a scrum szerint haza nem mehet. Nemzetközi szoftvert fejlesztünk, ami javítja a webáruházak konverzióját a kosárelhagyók marketingjével, leegyszerűsítve: pénzt keresünk a webáruházaknak. Így az ideális jelölt megérti a projekt lehetőségeit és nagyságát, szeretné otthagyni Ő is a virtuális lábnyomát sok ezer webáruház sok millió vásárlási folyamatánál.
+</p>
 
-A meglévő és új alkalmazások fejlesztése és karbántartása
-Kódolási standardok, szabályok, illetve rendszeres kódellenőrzés kialakításában való részvétel (code review)
-Minőségbiztosítási rendszer kialakításában való részvétel
-Részvétel a csapattal közösen egy új hibakezelő rendszer és automatizált deploy rendszerek kialakításában
+<p>
+	<strong>A feladatok, amik rád várnak PHP Fejlesztőként:</strong>
+</p>
 
-Elvárások
-0-1 év tapasztalat PHP fejlesztésben
-Más által írt, legacy kód átlátása, javítása, refaktorálása terén szerzett gyakorlat
-Szakmai dokumentációk megértése angol nyelven
+<ul>
+	<li>Nemzetközi, nagy terheltségű oldalak OOP fejlesztése (GhostMonitor applikáció)</li>
+	<li>Backend fejlesztés PHP5-ben</li>
+	<li>Új, milliós számban terhelt webapplikációk készítése</li>
+	<li>Szoftver architektúra megtervezése</li>
+	<li>Tesztelés, dokumentáció</li>
+</ul>
 
-Continuous Integration, automatizált deploy, TDD tapasztalatok előnyösek.
+<p>
+	<strong>Ezekre szükséged lesz a pozíció betöltéséhez:</strong>
+</p>
+
+<ul>
+	
+	<li>1-2 év PHP-ban szerzett szakmai tapasztalat</li>
+	<li>Adatbázis kezelési SQL(MySQL) ismeretek</li>
+	<li>Modern Javascript, JQuery, HTML, CSS tapasztalat</li>
+	<li>Verziókezelő (Git) ismerete</li>
+	<li>Angol nyelvtudás</li>
+	<li>Nem a nyelvvizsgádra vagyunk kíváncsiak, a lényeg, hogy tudj kommunikiálni és tanulni angolul.</li>
+	<li>Unit test - integrációs ismeretek</li>
+	<li>Felelősség - nálunk addig vagyunk az irodában, amíg az aznapi feladatainkat nem láttuk el</li>
+</ul>
+
+<p>
+	<strong>Előnyt jelent a jelentkezésnél:</strong>
+</p>
+
+<ul>
+	<li>Amazon AWS ismeretek</li>
+</ul>
+
+<p>
+	<strong>Amit kínálunk számodra:</strong>
+</p>
+
+<ul>
+	<li>Nemzetközi megmérettetés</li>
+	<li>Kávé, tea, alma ásványvíz minden mennyiségben</li>
+	<li>FunZone használat</li>
+	<li>Xbox, kanapé, babzsákok várnak a FunZone-ban, ahol lazíthatsz, amikor kicsit begőzöltél.</li>
+	<li>Stabil bevételű startup cég</li>
+	<li>Cégünk e-commerce hátteréből finanszírozzuk az amerikai projektjeinket, így a GhostMonitort is.</li>
+	<li>Darts bajnokság minden hónapban</li>
+	<li>Iroda a WestEnd közelében</li>
+	<li>Az irodánk 3-as metróval és 4-6-os villamossal is könnyen megközelíthető.</li>
+</ul>
