@@ -10,11 +10,10 @@
 </p>
 
 <ul>
-	<li>Nemzetközi, nagy terheltségű oldalak OOP fejlesztése (GhostMonitor applikáció)</li>
+	<li>Nagy terhelésű és magas rendelkezésre állás weboldalak fejlesztése (GhostMonitor applikáció)</li>
 	<li>Backend fejlesztés PHP5-ben</li>
-	<li>Új, milliós számban terhelt webapplikációk készítése</li>
-	<li>Szoftver architektúra megtervezése</li>
-	<li>Tesztelés, dokumentáció</li>
+	<li>Tesztelés</li>
+	<li>Dokumentáció írás</li>
 </ul>
 
 <p>
