@@ -1,21 +1,17 @@
-PHP fejlesztő (Symfony)
-Budaörs (Tesconál)
+PHP fejlesztő
+13. kerület Budapest
 PHP
-Ügyfelünk szervizeli több gyártó cég GSM és egyéb készülékeit. 2005 óta rendelkeznek egy belső informatikai rendszerrel, melyen keresztül zajlik minden jelentősebb üzleti folyamat (ügyfélszolgálat, bevételezés, logisztika, jelentéskészítés, stb). A szoftverfejlesztési csapat jelenleg 10 fős. A keresés oka a bővülés, mert sok a feladat. Két fő PHP fejlesztőt keresünk számukra.
 
 A feladatok
-Üzleti szoftverekhez új modulok és funkciók készítése, a belső informatikai rendszer továbbfejlesztése
-Szakmai segítségnyújtás a többi fejlesztő kollégának
+
+A meglévő és új alkalmazások fejlesztése és karbántartása
 Kódolási standardok, szabályok, illetve rendszeres kódellenőrzés kialakításában való részvétel (code review)
 Minőségbiztosítási rendszer kialakításában való részvétel
 Részvétel a csapattal közösen egy új hibakezelő rendszer és automatizált deploy rendszerek kialakításában
-Résztvétel a riportok és más funkciók automatizálásában
+
 Elvárások
-Min. 4-5 év tapasztalat PHP fejlesztésben (komplex alkalmazások)
-Symfony2 keretrendszer alapos ismerete
+0-1 év tapasztalat PHP fejlesztésben
 Más által írt, legacy kód átlátása, javítása, refaktorálása terén szerzett gyakorlat
-Agilis módszertanok ismerete, JIRA/Trello/Zendesk használat
 Szakmai dokumentációk megértése angol nyelven
-Ideális esetben fejlesztettél már logisztikai rendszereket, hamar megérted az üzleti igényeket, az üzleti modellt kódokban és adatbázisokban látod, és fel is tudod vázolni az elképzelésedet.
 
 Continuous Integration, automatizált deploy, TDD tapasztalatok előnyösek.
