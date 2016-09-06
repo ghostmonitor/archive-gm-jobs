@@ -1,6 +1,7 @@
 # GHOSTMONITOR PHP Junior - Weather forecast api
 1. Create a Rest api in Laravel (4 or 5) with the following endpoints
 2. _Bonus: write tests_
+3. _Bonus: Create a Rest api in Nodejs with the following endpoints
 
 __Submit your your code through `bitbucket.org` creating a private!!! repo and adding the following users: `pigri`, `barczaG`__ 
 
