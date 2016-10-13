@@ -12,6 +12,6 @@ _Note: Validate email address field before "Continue shopping" button get clicke
   - [Lato font](https://fonts.google.com/specimen/Lato)
   - SVG
 
-__Submit your code through `bitbucket.org` creating a private!!! repo with adding the following users: `pigri`, `barczaG`__
+__Submit your code through `bitbucket.org` creating a private!!! repo with adding the following users: `pigri`, `barczaG`, `krisztiankaizer`__
 
 _Please also provide setup / deploy instructions along with your code_
