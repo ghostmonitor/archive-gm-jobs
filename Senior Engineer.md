@@ -80,6 +80,10 @@ Another thing to note:
 
 GhostMonitor is a family friendly organization. We know how instrumental loved ones can be in reaching our goals and realizing our dreams. That's why we encourage all of our team members to take personal time to spend with those who mean the most to them. 
 
+## **Salary**
+
+Our salary offer is 300-600k HUF depending on your fit.
+
 ## **Contact**
 
 If this interests you, please do any of the following:
