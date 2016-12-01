@@ -83,7 +83,7 @@ GhostMonitor is a family friendly organization. We know how instrumental loved o
 
 ## **Salary**
 
-Our salary offer is 300-600k HUF with stock options on our US company depending on your fit.
+Our salary offer is 300-600k HUF (net) with stock options on our US company depending on your fit.
 
 ## **Contact**
 
