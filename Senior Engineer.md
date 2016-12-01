@@ -62,7 +62,7 @@ We're self-funded and stable. We pay the bills from our e-commerce profits. Howe
 
 ## **Perks**
 
-This is a **SIT-IN POSITION**. We'd love you to join us at our Budapest office at least 3 times a week.
+This is a **SIT-IN POSITION**. We'd love you to join us at our 13. district, Budapest Lehel square office at least 3 times a week.
 
 Many companies will offer unlimited paid vacation - which let's face it, usually means no vacation at all. Instead of making false promises, we want to know what's important to you, and how we can make that happen.
 
@@ -83,7 +83,7 @@ GhostMonitor is a family friendly organization. We know how instrumental loved o
 
 ## **Salary**
 
-Our salary offer is 300-600k HUF depending on your fit.
+Our salary offer is 300-600k HUF with stock options on our US company depending on your fit.
 
 ## **Contact**
 
