@@ -24,6 +24,7 @@ Take a good look at the following statements. If the answer to each isn't a reso
 * You want to build an amazing product that will serve the masses - from small startups to big enterprises.
 * You crave the freedom to be creative and work on things that interest you.
 * You strike the perfect balance between innovation and practicality.
+
 If all (or most) of the above sound right up your street, keep on reading my friend - we might just have the perfect position for you...
 
 ## **Job**
