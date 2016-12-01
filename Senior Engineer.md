@@ -74,7 +74,8 @@ Do you want...
 * GhostMonitor stocks?
 * more autonomy?
 * to organize your own time?
-* Whilst we can't provide all of the above, you tell us what's most important to you and we'll help make it a reality.
+
+Whilst we can't provide all of the above, you tell us what's most important to you and we'll help make it a reality.
 
 Another thing to note:
 
