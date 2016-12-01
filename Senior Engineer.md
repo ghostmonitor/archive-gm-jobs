@@ -1,6 +1,6 @@
 # **Senior Engineer**
 
-## **Why?**
+## **Why GhostMonitor?**
 
 In the last twenty years, e-commerce has completely revolutionized the retail world. It went from being a non-existent business model to becoming a potential threat to the traditional mall as we know it.
 
