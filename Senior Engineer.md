@@ -14,6 +14,8 @@ We believe these changes are forcing e-commerce merchants to seek new approaches
 
 The war for more dollars has begun.
 
+[![How GhostMonitor works](https://blog.ghostmonitor.com/wp-content/uploads/2016/12/Screenshot-2016-12-10-17.22.30.png)](https://www.youtube.com/watch?v=EKlsXHyNHAE)
+
 ## **You**
 
 Take a good look at the following statements. If the answer to each isn't a resounding "hell yeah!", then it might not be worth your time reading much further...
