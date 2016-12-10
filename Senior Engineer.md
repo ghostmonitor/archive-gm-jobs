@@ -59,9 +59,9 @@ GhostMonitor was started by Soma Toth and Peter Bodnar. After they founded and r
 ![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
 The launch team
 
-At GhostMonitor, we're chasing the American Dream. Our founders spend a lot of time in San Francisco and our clients are mostly from the United States as well.
+At GhostMonitor, we're chasing the American Dream. Our founders spend a lot of time in the Silicon Valley and our clients & advisors are mostly from the United States as well.
 
-![2 GhostMonitor Co-Founders @ Golden Gate](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
+![2 GhostMonitor Co-Founders @ Golden Gate](https://blog.ghostmonitor.com/wp-content/uploads/2016/12/IMG_4386.jpg) 
 GhostMonitor Co-Founders @ Golden Gate
 
 We've learned the tricks of the trade from the best entrepreneurs on the planet. We strongly believe that we're going to count tens of thousands of active users by the end of 2017. The e-commerce market is unstoppable, and so we are.
