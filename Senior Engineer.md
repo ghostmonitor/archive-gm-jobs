@@ -56,14 +56,23 @@ We believe we could achieve the best user and also developer experience by autom
 
 GhostMonitor was started by Soma Toth and Peter Bodnar. After they founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The company launched in May 2016, and already has 1000 active users.
 
-[![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg)] 
+[![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
 The launch team
 
 At GhostMonitor, we're chasing the American Dream. Our founders spend a lot of time in San Francisco and our clients are mostly from the United States as well.
 
+[![2 GhostMonitor Co-Founders @ Golden Gate](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
+GhostMonitor Co-Founders @ Golden Gate
+
 We've learned the tricks of the trade from the best entrepreneurs on the planet. We strongly believe that we're going to count tens of thousands of active users by the end of 2017. The e-commerce market is unstoppable, and so we are.
 
+[![We learn from the best](https://blog.ghostmonitor.com/wp-content/uploads/2016/12/IMG_4469.jpg) 
+We learn from the best - We took an exclusive tour in the Facebook HQ
+
 We're self-funded and stable. We pay the bills from our e-commerce profits. However, we receive a number of investment offers every month, so it's possible to take some investment in the future.
+
+[![Our funzone](https://blog.ghostmonitor.com/wp-content/uploads/2016/02/IMG_0722-1.jpg) 
+We have a funzone - Try beting us in Darts! 
 
 ## **Perks**
 
@@ -82,9 +91,8 @@ Do you want...
 
 Whilst we can't provide all of the above, you tell us what's most important to you and we'll help make it a reality.
 
-Another thing to note:
-
-GhostMonitor is a family friendly organization. We know how instrumental loved ones can be in reaching our goals and realizing our dreams. That's why we encourage all of our team members to take personal time to spend with those who mean the most to them. 
+[![The First GhostMonitor Hackhaton](https://blog.ghostmonitor.com/wp-content/uploads/2016/12/IMG_1163.jpg) 
+The First GhostMonitor Hackhaton in Debrecen - We organize hackhatons and build funny stuff 
 
 ## **Salary**
 
