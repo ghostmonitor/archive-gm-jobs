@@ -96,7 +96,7 @@ The First GhostMonitor Hackhaton in Debrecen - We organize hackhatons and build 
 
 ## **Why should you join?**
 
-You're not going to become a millionaire _in the first few months_ - since we offer 400-600,000 HUF, but we propose you stock options and an advanced salary growth timetable. If the company wins - you win as well. 
+You're not going to become a millionaire _in the first few months_ - since we offer net 400-600,000 HUF, but we propose you stock options and an advanced salary growth timetable. If the company wins - you win as well. 
 
 We're small right now, but there's a huge opprtunity for aggressive expansion. Don't forget: the e-commerce won't stop growing. 
 
