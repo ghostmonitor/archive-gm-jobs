@@ -31,7 +31,7 @@ If all (or most) of the above sound right up your street, keep on reading my fri
 
 ## **Job**
 
-Your role as the Senior Engineer here at Ghostmonitor will first and foremost be to understand and embrace the vision of the company. Then it's just a case of writing top-notch code that brings our vision to life - helping businesses big and small recover their carts, and get the most out of their customers. 
+Your role as the Senior Engineer here at Ghostmonitor will first and foremost be to understand and embrace the vision of the company. Then it's just a case of writing top-notch code that brings our vision to life - **helping online businesses big and small recover their carts, and get the most out of their customers.** 
 
 Ghostmonitor is SaaS platform written in Node.js using micro service architecture principles. We also use MongoDB, Elasticsearch, AWS - SQS, Lambda, Elasticache. On the client side, we mostly use React. We are using kubernetes and codeship for CI and deployment.
 
@@ -55,6 +55,9 @@ We believe we could achieve the best user and also developer experience by autom
 ## **Us**
 
 GhostMonitor was started by Soma Toth and Peter Bodnar. After they founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The company launched in May 2016, and already has 1000 active users.
+
+[![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg)] 
+The launch team
 
 At GhostMonitor, we're chasing the American Dream. Our founders spend a lot of time in San Francisco and our clients are mostly from the United States as well.
 
