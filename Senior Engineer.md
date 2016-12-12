@@ -76,7 +76,7 @@ We have a funzone - Try beting us in Darts!
 
 ## **Perks**
 
-This is a **HALF SIT-IN POSITION**. We'd love you to join us at our 13. district, Budapest Lehel square office about 3 times a week.
+This is a **SIT-IN & REMOTE POSITION**. We'd love you to join us at our 13 dis. Lehel square office about 3 days a week. This means you can work remote 2 days a week. 
 
 Many companies will offer unlimited paid vacation - which let's face it, usually means no vacation at all. Instead of making false promises, we want to know what's important to you, and how we can make that happen.
 
