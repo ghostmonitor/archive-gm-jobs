@@ -1,4 +1,4 @@
-# **Senior Engineer**
+# **Senior Engineer (with stock options)**
 
 ## **Why GhostMonitor?**
 
