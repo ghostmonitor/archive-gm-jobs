@@ -31,9 +31,9 @@ If all (or most) of the above sound right up your street, keep on reading my fri
 
 ## **Job**
 
-Your role as the Senior Engineer here at Ghostmonitor will first and foremost be to understand and embrace the vision of the company. Then it's just a case of writing top-notch code that brings our vision to life - **helping online businesses big and small recover their carts, and get the most out of their customers.** 
+Your role as the Senior Engineer here at GhostMonitor will first and foremost be to understand and embrace the vision of the company. Then it's just a case of writing top-notch code that brings our vision to life - **helping online businesses big and small recover their carts, and get the most out of their customers.** 
 
-Ghostmonitor is SaaS platform written in Node.js using micro service architecture principles. We also use MongoDB, Elasticsearch, AWS - SQS, Lambda, Elasticache. On the client side, we mostly use React. We are using kubernetes and codeship for CI and deployment.
+GhostMonitor is SaaS platform written in Node.js using micro service architecture principles. We also use MongoDB, Elasticsearch, AWS - SQS, Lambda, Elasticache. On the client side, we mostly use React. We are using kubernetes and codeship for CI and deployment.
 
 We believe we could achieve the best user and also developer experience by automating everything, so testing and extending our continuous integration system will also lie within your scope of responsibilities.
 
@@ -54,7 +54,7 @@ We believe we could achieve the best user and also developer experience by autom
 
 ## **Us**
 
-GhostMonitor was started by Soma Toth and Peter Bodnar. After they founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The company launched in May 2016, and already has 1000 active users.
+GhostMonitor was started by Soma Toth and Peter Bodnar. After they founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The company launched in May 2016 and already has 1000 active users.
 
 ![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
 The launch team
@@ -67,12 +67,12 @@ GhostMonitor Co-Founders @ Golden Gate
 We've learned the tricks of the trade from the best entrepreneurs on the planet. We strongly believe that we're going to count tens of thousands of active users by the end of 2017. The e-commerce market is unstoppable, and so we are.
 
 ![We learn from the best](https://blog.ghostmonitor.com/wp-content/uploads/2016/12/IMG_4469.jpg) 
-We learn from the best - We took an exclusive tour in the Facebook HQ
+We learn from the best - We took an exclusive tour of the Facebook HQ.
 
 We're self-funded and stable. We pay the bills from our e-commerce profits. However, we receive a number of investment offers every month, so it's possible to take some investment in the future.
 
 ![Our funzone](https://blog.ghostmonitor.com/wp-content/uploads/2016/02/IMG_0722.jpg) 
-We have a funzone - Try beting us in Darts! 
+We have a fun zone - Try beating us in Darts! 
 
 ## **Perks**
 
@@ -98,9 +98,9 @@ The First GhostMonitor Hackhaton in Debrecen - We organize hackhatons and build 
 
 You're not going to become a millionaire _in the first few months_ - since we offer net 400-600,000 HUF, but we propose you stock options and an advanced salary growth timetable. If the company wins - you win as well. 
 
-We're small right now, but there's a huge opprtunity for aggressive expansion. Don't forget: the e-commerce won't stop growing. 
+We're small right now, but there's a huge opportunity for aggressive expansion. Don't forget: the e-commerce won't stop growing. 
 
-If you want to literally own your project and take one of the biggest challenge in your life - you should join us. 
+If you want to literally own your project and take one of the biggest challenges in your life - you should join us. 
 
 ## **Contact**
 
