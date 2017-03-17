@@ -4,7 +4,7 @@
 
 In the last twenty years, e-commerce has completely revolutionized the retail world. It went from being a non-existent business model to becoming a potential threat to the traditional mall as we know it.
 
-Jeff Bezos shipped Amazon’s first ever online book sale in 1995. We consumers haven't looked back since. Data released this September indicates that we're about to spend $1,922,000,000,000 ($1.9 trillion) on online stores in 2016.
+Jeff Bezos shipped Amazon’s first ever online book sale in 1995. We consumers haven't looked back since. Data released last September indicated that we were about to spend $1,922,000,000,000 ($1.9 trillion) on online stores in 2016.
 
 The evolution of e-commerce has inevitably brought competition to the market. Approximately **1200 e-commerce stores open every day** and join the 1.6 million already existing ones. The growth of e-commerce is unstoppable, which creates new challenges for e-commerce merchants.
 
@@ -31,9 +31,9 @@ If all (or most) of the above sound right up your street, keep on reading my fri
 
 Your role as the Front-End Developer here at Recart will first and foremost be to understand and embrace the vision of the company. Then it's just a case of writing top-notch code that brings our vision to life - **helping online businesses big and small recover their carts, and get the most out of their customers.** 
 
-**You'll build an application what thousands of people actually rely on. Most of our users visits their Recart dashobard every day.** 
+**You'll build an application that thousands of people actually rely on. Most of our users visit their Recart dashboard every day.** 
 
-Recart is SaaS platform written in Node.js using micro service architecture principles. We also use MongoDB, Elasticsearch, AWS - SQS, Lambda, Elasticache. On the client side, we mostly use React. We are using kubernetes and codeship for CI and deployment.
+Recart is a SaaS platform written in Node.js using microservice architecture principles. We also use MongoDB, Elasticsearch, AWS - SQS, Lambda, Elasticache. On the client side, we mostly use React. We use Kubernetes and Codeship for CI and deployment.
 
 We believe we could achieve the best user and also developer experience by automating everything, so testing and extending our continuous integration system will also lie within your scope of responsibilities.
 
@@ -41,7 +41,7 @@ We believe we could achieve the best user and also developer experience by autom
 
 * 1 year front-end development experience
 * Able to build pixel perfect HTML5/CSS3 layouts from PSD
-* Familiar with at least one of the following technologies
+* Familiar with at least one of the following technologies:
 * * SASS / SCSS
 * * Bootstrap
 * * jQuery
@@ -51,7 +51,7 @@ We believe we could achieve the best user and also developer experience by autom
 * React.js
 * Redux / Mobx
 * Webpack / gulp / grunt
-* Faimiliar with CI
+* Familiar with CI
 * Express / Koa
 
 ## **Us**
