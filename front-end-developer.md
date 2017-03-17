@@ -39,18 +39,20 @@ We believe we could achieve the best user and also developer experience by autom
 
 ## **Required Skills**
 
-* JavaScript (preferably Node.js)
-* Understanding of asynchronous techniques (callbacks, promises, generators, async/await)
-* Experience with javascript testing tools: mocha / tape, sinon, proxyquire, supertest, selenium/ phantomjs/ nightmare.js
-* MongoDB
+* 1 year front-end development experience
+* Able to build pixel perfect HTML5/CSS3 layouts from PSD
+* Familiar with at least one of the following technologies
+* * SASS / SCSS
+* * Bootstrap
+* * jQuery
 
 ## **Good to have**
 
-* AWS - SQS, Lambda, Dynamodb, S3
-* TDD
-* Docker
-* Koa
 * React.js
+* Redux / Mobx
+* Webpack / gulp / grunt
+* Faimiliar with CI
+* Express / Koa
 
 ## **Us**
 
