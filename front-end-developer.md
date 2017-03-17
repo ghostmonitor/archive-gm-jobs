@@ -56,7 +56,7 @@ We believe we could achieve the best user and also developer experience by autom
 
 Recart was started by Soma Toth, Peter Bodnar, Gergo Barcza and David Papp on the summer of 2015. After Soma and Peter founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The Recart launched (named GhostMonitor) in May 2016 and already has 1000 active users.
 
-![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
+![The launch team. We rebranded GhostMonitor to Recart 2 months ago.](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
 The launch team
 
 At Recart, we're chasing the American Dream. Our founders spend a lot of time in the Silicon Valley and our clients & advisors are mostly from the United States as well.
