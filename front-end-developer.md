@@ -42,9 +42,9 @@ We believe we could achieve the best user and also developer experience by autom
 * 1 year front-end development experience
 * Able to build pixel perfect HTML5/CSS3 layouts from PSD
 * Familiar with at least one of the following technologies:
-* * SASS / SCSS
-* * Bootstrap
-* * jQuery
+  * SASS / SCSS
+  * Bootstrap
+  * jQuery
 
 ## **Good to have**
 
