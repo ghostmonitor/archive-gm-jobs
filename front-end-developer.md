@@ -58,7 +58,7 @@ You can apply with almost every level of experience since we are looking for bot
 
 ## **Us**
 
-Recart was started by Soma Toth, Peter Bodnar, Gergo Barcza and David Papp on the summer of 2015. After Soma and Peter founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The Recart launched (named GhostMonitor) in May 2016 and already has 1000 active users.
+Recart was started by Soma Toth, Peter Bodnar, Gergo Barcza and David Papp on the summer of 2015. After Soma and Peter founded and ran 7-figure e-commerce stores together and learned the difficulties of e-commerce the hard way, they decided to build a SaaS to overcome them. The Recart launched (named GhostMonitor) in May 2016 and already has more than 2,500 active users.
 
 ![The launch team](https://blog.ghostmonitor.com/wp-content/uploads/2016/03/11393286_1023296911014706_3524113198524178407_o-2.jpg) 
 The launch team. We rebranded GhostMonitor to Recart 2 months ago.
@@ -78,7 +78,7 @@ We're self-funded and stable. We pay the bills from our e-commerce profits. Howe
 ![Our funzone](https://blog.ghostmonitor.com/wp-content/uploads/2016/02/IMG_0722.jpg) 
 We have a fun zone - Try beating us in Darts! 
 
-Recart has 2,500 active users right now, and it already made more than $26,000,000 extra sales to its clients. 
+**Recart has more than 2,500 active users right now, and it already made more than $26,000,000 extra sales to its clients.** 
 
 ## **Perks**
 
