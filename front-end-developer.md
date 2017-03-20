@@ -2,15 +2,17 @@
 
 ## **Why Recart?**
 
-In the last twenty years, e-commerce has completely revolutionized the retail world. It went from being a non-existent business model to becoming a potential threat to the traditional mall as we know it.
+**Recart makes more money for ecommerce stores.**
+
+In the last twenty years, ecommerce has completely revolutionized the retail world. It went from being a non-existent business model to becoming a potential threat to the traditional mall as we know it.
 
 Jeff Bezos shipped Amazon’s first ever online book sale in 1995. We consumers haven't looked back since. Data released last September indicated that we were about to spend $1,922,000,000,000 ($1.9 trillion) on online stores in 2016.
 
-The evolution of e-commerce has inevitably brought competition to the market. Approximately **1200 e-commerce stores open every day** and join the 1.6 million already existing ones. The growth of e-commerce is unstoppable, which creates new challenges for e-commerce merchants.
+The evolution of ecommerce has inevitably brought competition to the market. Approximately **1200 ecommerce stores open every day** and join the 1.6 million already existing ones. The growth of ecommerce is unstoppable, which creates new challenges for merchant
 
 Consumers can buy from more sites at a cheaper price and we get distracted more and more often. There is a huge amount of noise out there. All this leads to a phenomenon often referred to as 'cart abandonment'. People are abandoning their shopping carts more than ever. The cart abandonment rate is 80% today - so 80 of 100 carts are never checked out. This leads to an average online entrepreneur **losing $400 revenue on every $100 made**. 
 
-We believe these changes are forcing e-commerce merchants to seek new approaches. The $4.6 trillion lost revenue in 2015 created a movement to shift the funnel of e-commerce stores. **We will dedicate the next five years to help tens of thousands of e-commerce merchants earn more.**
+We believe these changes are forcing ecommerce merchants to seek new approaches. The $4.6 trillion lost revenue in 2015 created a movement to shift the funnel of ecommerce stores. **We will dedicate the next five years to help tens of thousands of ecommerce merchants earn more.**
 
 The war for more dollars has begun. 
 
@@ -35,9 +37,9 @@ Your role as the Front-End Developer here at Recart will first and foremost be t
 
 Recart is a SaaS platform written in Node.js using microservice architecture principles. We also use MongoDB, Elasticsearch, AWS - SQS, Lambda, Elasticache. On the client side, we mostly use React. We use Kubernetes and Codeship for CI and deployment.
 
-We believe we could achieve the best user and also developer experience by automating everything, so testing and extending our continuous integration system will also lie within your scope of responsibilities.
-
 ## **Required Skills**
+
+You can apply with almost every level of experience since we are looking for both junior and senior developers. The absolute minimim skills we need are these: 
 
 * 1 year front-end development experience
 * Able to build pixel perfect HTML5/CSS3 layouts from PSD
@@ -89,7 +91,7 @@ Do you want...
 * a top end laptop?
 * to visit the greatest companies in the Silicon Valley?
 * to build your own team?
-* Recart stocks?
+* equity in a fast growing startup?
 * more autonomy?
 * to organize your own time?
 
