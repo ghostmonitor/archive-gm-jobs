@@ -8,7 +8,7 @@ In the last twenty years, ecommerce has completely revolutionized the retail wor
 
 Jeff Bezos shipped Amazon’s first ever online book sale in 1995. We consumers haven't looked back since. Data released last September indicated that we were about to spend $1,922,000,000,000 ($1.9 trillion) on online stores in 2016.
 
-The evolution of ecommerce has inevitably brought competition to the market. Approximately **1200 ecommerce stores open every day** and join the 1.6 million already existing ones. The growth of ecommerce is unstoppable, which creates new challenges for merchant
+The evolution of ecommerce has inevitably brought competition to the market. Approximately **1200 ecommerce stores open every day** and join the 1.6 million already existing ones. The growth of ecommerce is unstoppable.
 
 Consumers can buy from more sites at a cheaper price and we get distracted more and more often. There is a huge amount of noise out there. All this leads to a phenomenon often referred to as 'cart abandonment'. People are abandoning their shopping carts more than ever. The cart abandonment rate is 80% today - so 80 of 100 carts are never checked out. This leads to an average online entrepreneur **losing $400 revenue on every $100 made**. 
 
