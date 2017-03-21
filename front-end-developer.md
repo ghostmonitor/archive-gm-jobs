@@ -102,7 +102,7 @@ The First Recart Hackhaton in Debrecen - We organize hackhatons and build funny 
 
 ## **Why should you join?**
 
-You're not going to become a millionaire _in the first few months_ - since we offer net 300-500,000 HUF, but we propose you stock options and an advanced salary growth timetable. If the company wins - you win as well. 
+You're not going to become a millionaire _in the first few months_ - since we offer net 200-500,000 HUF depending on your level, but we propose you stock options and an advanced salary growth timetable. If the company wins - you win as well. 
 
 We're small right now, but there's a huge opportunity for aggressive expansion. Don't forget: the e-commerce won't stop growing. 
 
