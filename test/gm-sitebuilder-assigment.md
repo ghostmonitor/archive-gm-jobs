@@ -14,6 +14,6 @@ _Note: Validate the email address field before the "Continue shopping" button ge
   - [Lato font](https://fonts.google.com/specimen/Lato)
   - SVG
 
-__Submit your code through `bitbucket.org` by creating a PRIVATE repo that you share with the following users: `pigri`, `barczaG`, `krisztiankaizer`__
+__Submit your code through `bitbucket.org` by creating a PRIVATE repo that you share with the following users: `pigri`, `barczaG`, `krisztiankaizer`, `namenyi`__
 
 _Please also provide setup / deploy instructions along with your code_
