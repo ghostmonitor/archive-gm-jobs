@@ -1,0 +1,13 @@
+# Github will automatically request reviews from the owners on new Pull Requests
+
+# ------------------------------------------
+# Default owners for everything in the repo:
+# ------------------------------------------
+
+*       @namenyi
+
+# ------------------------------------------
+# Owners for specific parts of the repo:
+# ------------------------------------------
+
+# 
